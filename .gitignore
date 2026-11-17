@@ -1,0 +1,19 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Private keys
+*.pem
+
+# Git
+.git/
+
+# Build files
+dist/
+
+# Logs
+*.log
